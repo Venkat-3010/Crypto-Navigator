@@ -12,7 +12,7 @@ const UserContext = createContext();
 
 export const AuthContextProvider = ({children}) => {
 
-    cosnt [user, setUser] = useState({});
+    const [user, setUser] = useState({});
     const signUp = (email, password) => {
         createUserWithEmailAndPassword(auth, email, password)
         return setDoc(doc(db, "user", email), {
@@ -28,7 +28,7 @@ export const AuthContextProvider = ({children}) => {
     }
 
     useEffect(() => {
-        cosnt unsubscribe = onAuthStateChanged(a, (currentUser) => {
+        const unsubscribe = onAuthStateChanged(auth , (currentUser) => {
             setUser(currentUser);
         })
         return () => {
