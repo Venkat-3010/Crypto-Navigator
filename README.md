@@ -9,7 +9,7 @@
     - Users can add their favorite crypto currencies to the watchlist.
     - Dark/Light theme is available.
     - Each crypto currency has its own designated page with more information about the currency.
-    - Checkout the website for more information[website](https://github.com/)
+    - Checkout the website for more information[website](https://crypto-navigator.vercel.app/)
 
 ## Screenshots
 ![screenshots](https://github.com/Venkat-3010/Crypto-Navigator/blob/main/src/screenshot/CryptoNavigator-screenshot.png)
