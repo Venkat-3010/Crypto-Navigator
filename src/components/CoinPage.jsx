@@ -3,7 +3,7 @@ import axios from "axios"
 import {AiFillCaretUp, AiFillCaretDown} from "react-icons/ai"
 import { Sparklines, SparklinesLine} from 'react-sparklines';
 import { useParams } from 'react-router-dom';
-import ReactLoading from "react-loading"
+import ReactLoading from "react-loading";
 
 
 function CoinPage() {

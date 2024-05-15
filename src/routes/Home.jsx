@@ -1,8 +1,13 @@
 import React from 'react'
+import Coins from '../components/Coins'
+import Trending from '../components/Trending'
 
-const Home = () => {
+function Home(props) {
   return (
-    <div>Home</div>
+    <div>
+        <Coins coins={props.coins}/>
+        <Trending/>
+    </div>
   )
 }
 

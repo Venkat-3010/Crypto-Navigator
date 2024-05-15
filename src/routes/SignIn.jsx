@@ -53,4 +53,4 @@ const SignIp = () => {
   )
 }
 
-export default SignIp
+export default SignIp;

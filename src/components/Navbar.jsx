@@ -3,6 +3,7 @@ import { UserAuth } from '../context/AuthContext'
 import { Link, useNavigate } from 'react-router-dom';
 import Switcher from './Switcher';
 import { CgProfile } from 'react-icons/cg';
+import MobileMenu from './MobileMenu';
 
 const Navbar = () => {
   const {user, logout} = UserAuth;
@@ -46,4 +47,4 @@ const Navbar = () => {
   )
 }
 
-export default Navbar
+export default Navbar;
