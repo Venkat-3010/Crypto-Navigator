@@ -13,7 +13,7 @@
 
 ## Screenshots
     
-    ![screenshots](https://)
+    ![screenshots](https://github.com/Venkat-3010/Crypto-Navigator/blob/main/src/screenshot/CryptoNavigator-screenshot.png)
 
 ## Technologies used
 
