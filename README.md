@@ -12,8 +12,7 @@
     - Checkout the website for more information[website](https://github.com/)
 
 ## Screenshots
-    
-    ![screenshots](https://github.com/Venkat-3010/Crypto-Navigator/blob/main/src/screenshot/CryptoNavigator-screenshot.png)
+![screenshots](https://github.com/Venkat-3010/Crypto-Navigator/blob/main/src/screenshot/CryptoNavigator-screenshot.png)
 
 ## Technologies used
 
