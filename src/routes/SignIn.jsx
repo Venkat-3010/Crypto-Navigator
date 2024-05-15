@@ -43,11 +43,11 @@ const SignIp = () => {
                     <RiLockPasswordLine className='absolute right-4 top-3 text-gray-400'/>
                 </div>
             </div>
-            <button className='sign-btn'>Sign up</button>
+            <button className='sign-btn'>Login</button>
         </form>
         <p className='my-3 text-gray-500 dark:text-gray-400 text-sm'>
             Don't have an account?
-            <span className='text-blue-500 dark:text-blue-400 cursor-pointer' onClick={() => navigate("/signup")}> Login now!</span>
+            <span className='text-blue-500 dark:text-blue-400 cursor-pointer' onClick={() => navigate("/signup")}> Sign up now!</span>
         </p>
     </div>
   )

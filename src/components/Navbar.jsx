@@ -19,7 +19,7 @@ const Navbar = () => {
   };
 
   return (
-    <div className='rounded-div flex justify-between items-center h-20 font-semibold'>
+    <div className='mt-8 rounded-div flex justify-between items-center h-20 font-semibold'>
         <Link to="/">
             <h1 className='text-2xl'>CryptoNaigator</h1>
         </Link>
