@@ -2,7 +2,7 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <div className='rounded-div mt-8 w-full'>
+    <div className='rounded-div mt-8 mb-8 w-full'>
         <div className='my-5 flex justify-around mb-2 text-xs'>
             <div>
                 <h1 className='text-2xl font-semibold'>CryptoNavigator</h1>
