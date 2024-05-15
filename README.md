@@ -26,7 +26,7 @@
 
 ## Author
 
-- GitHub: [@robo311](https://github.com/Venkat-3010)
+- GitHub: [@Venkat-3010](https://github.com/Venkat-3010)
 
 ### Additional info
 
